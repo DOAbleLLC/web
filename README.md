@@ -1,5 +1,6 @@
-# Test
-Bootstrap website for Doable Group
+# Doable Group — Front Door Website
+
+Official front-door website repository for Doable Group (`doablegroup.com`).
 
 ## Web Ops Documentation
 
